@@ -6,10 +6,6 @@ __author__="Vivian Procacci"
 personality_type = ""
 #This is the final string that accumalates
 def announce(personality_type):
-    """
-
-    :param personality_type:
-    """
     print("Your personality type is",
           (personality_type) + "!\nThank you for participating!")
     # function that declares personality after the test
