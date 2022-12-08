@@ -319,4 +319,5 @@ def main():
     # and all other responses are an error
 
 #exit program
+main()
 #Call to main! ,first step in flow of execution
