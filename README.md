@@ -1,4 +1,4 @@
-  **Code:** [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/viviprocacci/Integration-Project-COP1500/badge)](https://securityscorecards.dev/viewer/?uri=github.com/viviprocacci/Integration-Project-COP1500)
+  **Code:**         [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/viviprocacci/Integration-Project-COP1500/badge)](https://securityscorecards.dev/viewer/?uri=github.com/viviprocacci/Integration-Project-COP1500)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8582/badge)](https://www.bestpractices.dev/projects/8582)
 
 <h1 align="center">Hi 👋, I'm Vivian Procacci!</h1>
