@@ -4,3 +4,4 @@
 Welcome to my Integration Project! My name is Vivian Procacci, 
 I'm a student at FGCU, and I made a program assessing your personality 
 through the Myer Briggs personality index. 
+You will take 16 questions to determine whether you or introverted or extroverted, intuitive or sensing, feeling or thinking, and judging or perceiving.
